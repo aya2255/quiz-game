@@ -41,6 +41,6 @@ git clone https://github.com/username/quiz-game.git
 2. Open `index.html` in your browser.
 
 
-##  Aya Ahmed
+##  Auther
 
-Your Name
+AYA AHMED 
