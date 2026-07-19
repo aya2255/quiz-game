@@ -22,13 +22,13 @@ A simple and interactive Quiz Game built using **HTML**, **CSS**, and **JavaScri
 ##  Screenshots
 
 ### Start Screen
-![Start Screen](screenshots/start.png)
+![Start Screen](start.png)
 
 ### Quiz Screen
-![Quiz Screen](screenshots/quiz.png)
+![Quiz Screen](quiz.png)
 
 ### Final Result
-![Result Screen](screenshots/result.png)
+![Result Screen](result.png)
 
 ## How to Run
 
@@ -41,6 +41,6 @@ git clone https://github.com/username/quiz-game.git
 2. Open `index.html` in your browser.
 
 
-## 👩‍💻 Author
+##  Aya Ahmed
 
 Your Name
